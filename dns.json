@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "testapp.anzclass.tk",
+        "Name": "ashishapp.ashishjoshi.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
